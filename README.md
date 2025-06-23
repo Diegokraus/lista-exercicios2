@@ -20,8 +20,8 @@ Antes de executar os exercícios, certifique-se de ter os seguintes itens instal
 Abra o terminal e execute:
 
 ```bash
-git clone https://github.com/Diegokraus/lista-exercicios1.git
-cd lista-exercicios1
+git clone https://github.com/Diegokraus/lista-exercicios2.git
+cd lista-exercicios2
 ```
 
 ### 📦 Dependências
